@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ANANDIKANURIMAN_1202150112_StudyCase4</string>
+    <string-array name="nama">
+        <item>Anandika Nur Iman</item>
+        <item>Muhammad Ikhsan</item>
+        <item>Yudha Bhakti</item>
+        <item>Muhammad Gilang</item>
+        <item>Gilang Bagaskara</item>
+        <item>Afifudin</item>
+        <item>Afif Abdurrahim</item>
+        <item>Upap</item>
+        <item>Didin</item>
+        <item>Irham Fakhri</item>
+        <item>Irhari</item>
+        <item>Achmad Farhan</item>
+        <item>Babeh Han</item>
+        </string-array>
+</resources>
